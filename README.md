@@ -6,8 +6,8 @@ This repository contains educational materials for learning Python fundamentals 
 
 This repository contains two Jupyter notebooks:
 
-1. **Python_Fundamentals.ipynb**: Covers essential Python concepts for data science
-2. **Temperature_Analysis_Project.ipynb**: A complete data analysis project that applies these concepts
+1. **Mastering_Python.ipynb**: Covers essential Python concepts for data science
+2. **Temperature Analysis Project.ipynb**: A complete data analysis project that applies these concepts
 
 ## Python Fundamentals Notebook
 
