@@ -105,12 +105,12 @@ The project is organized into modular functions:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-data-science-fundamentals.git
+   git clone https://github.com/DhruvSP90/Mastering-Python-for-Data-Science-AI-The-Fundamentals.git
    ```
 
 2. Navigate to the repository directory:
    ```
-   cd python-data-science-fundamentals
+   cd Mastering-Python-for-Data-Science-AI-The-Fundamentals
    ```
 
 3. Install required dependencies:
