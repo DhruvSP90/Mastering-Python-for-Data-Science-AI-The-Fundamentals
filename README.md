@@ -11,7 +11,7 @@ This repository contains two Jupyter notebooks:
 
 ## Python Fundamentals Notebook
 
-The `Python_Fundamentals.ipynb` notebook covers the following topics:
+The `Mastering_Python.ipynb` notebook covers the following topics:
 
 ### 1. Data Types & Variables
 - Numeric types (int, float, complex)
@@ -53,7 +53,7 @@ The `Python_Fundamentals.ipynb` notebook covers the following topics:
 
 ## Temperature Analysis Project Notebook
 
-The `Temperature_Analysis_Project.ipynb` notebook contains a complete temperature analysis application that demonstrates how to apply Python fundamentals to a real-world data analysis problem.
+The `Temperature Analysis Project.ipynb` notebook contains a complete temperature analysis application that demonstrates how to apply Python fundamentals to a real-world data analysis problem.
 
 ### Project Overview
 
